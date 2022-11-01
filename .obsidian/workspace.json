@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "62809ccd5c1d9729",
+    "type": "split",
+    "children": [
+      {
+        "id": "af43643623d40b5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7660ca77c9718c18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLASS & ID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34cf63b791dca685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Selectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9a5cce61ebd27ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/TERM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14eb76bc260546a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Display.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cfe43d1539c74fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Box Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a26770894c8ab9b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-11-01 16.36.10.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c95f4f03db7fdcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "120687cbbee072a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77db3e2c224a0de7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fba8e21c224526d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21e4a8d2355214de",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a500ae380d73a84c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3c1d5ebd9d05340",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5561bebc986c1253",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-11-01 16.36.10.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22b7fc4e7bb3362c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-11-01 16.36.10.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96d86ab8055a5bfc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30737af3a3af4b8c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-11-01 16.36.10.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "628b347d2c1c4471",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5a26770894c8ab9b",
+  "lastOpenFiles": [
+    "CSS/Navigation Bar.md",
+    "CLASS & ID.md",
+    "Position.md",
+    "CSS/Box Model.md",
+    "CSS/Display.md",
+    "CSS/TERM.md",
+    "CSS/Selectors.md",
+    "OBSIDIAN RULES.md"
+  ]
+}
