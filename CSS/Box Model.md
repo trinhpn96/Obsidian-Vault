@@ -26,3 +26,5 @@ device.io
  content + padding + border;
  ## content-box: 
  100% content
+
+![](https://i.imgur.com/yKelLE4.png)

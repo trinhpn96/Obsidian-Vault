@@ -71,9 +71,11 @@
             "id": "5a26770894c8ab9b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2022-11-01 16.36.10.excalidraw.md"
+                "file": "CSS/Box Model.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -128,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "a500ae380d73a84c",
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-11-01 16.36.10.excalidraw.md",
+                "file": "CSS/Box Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-11-01 16.36.10.excalidraw.md",
+                "file": "CSS/Box Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-11-01 16.36.10.excalidraw.md"
+                "file": "CSS/Box Model.md"
               }
             }
           },
@@ -206,13 +207,15 @@
   },
   "active": "5a26770894c8ab9b",
   "lastOpenFiles": [
-    "CSS/Navigation Bar.md",
+    "Excalidraw/Drawing 2022-11-01 16.57.38.excalidraw.md",
     "CLASS & ID.md",
+    "OBSIDIAN RULES.md",
     "Position.md",
-    "CSS/Box Model.md",
-    "CSS/Display.md",
-    "CSS/TERM.md",
+    "Untitled Kanban.md",
     "CSS/Selectors.md",
-    "OBSIDIAN RULES.md"
+    "Excalidraw/Drawing 2022-11-01 16.36.10.excalidraw.md",
+    "CSS/Navigation Bar.md",
+    "CSS/Box Model.md",
+    "CSS/Display.md"
   ]
 }
